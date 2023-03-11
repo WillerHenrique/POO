@@ -1,8 +1,8 @@
 package br.newtonpaiva.dominio;
 
-public class Conta {
+public class Conta implements Transferencia {
     private Integer numero;
-    private Double saldo;
+    protected Double saldo;
 
     public Double sacar(Double valor) {
         return 0.0;
