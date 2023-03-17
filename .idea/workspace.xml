@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90d4e6cb-c712-4a5c-9946-9fe592c87f2a" name="Changes" comment="feat: cria estrutura inicial">
-      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/ContaEspecial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Transferencia.java" afterDir="false" />
+    <list default="true" id="90d4e6cb-c712-4a5c-9946-9fe592c87f2a" name="Changes" comment="feat: criando uma conta especial">
+      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/ContaPoupanca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" afterDir="false" />
     </list>
@@ -54,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677278326229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: criando uma conta especial">
+      <created>1678496105985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678496105985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: cria estrutura inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: cria estrutura inicial" />
+    <MESSAGE value="feat: criando uma conta especial" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: criando uma conta especial" />
   </component>
 </project>
